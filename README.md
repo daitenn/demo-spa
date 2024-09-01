@@ -6,3 +6,6 @@
 `npm install`
 - start to localhost
 `npm run dev`
+
+## Display
+- ![images](./setup.png)
