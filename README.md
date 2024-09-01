@@ -1,5 +1,5 @@
 # Counter Calculating App
-## Using
+## Usage
 - clone this repository
 `git clone https://github.com/daitenn/demo-spa.git`
 - install this directory as `node_modelus`
